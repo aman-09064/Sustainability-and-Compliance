@@ -30,7 +30,7 @@ This repository helps organizations and professionals:
 #  Key Areas Covered
 
 ## **1. ESG (Environmental, Social, Governance)**
-- ESG fundamentals  
+- ESG fundamentals(ESG-Fundamentals-Checklist)
 - Board-level oversight  
 - Internal policies & governance  
 - ESG risk registers  
