@@ -34,6 +34,7 @@ This repository helps organizations and professionals:
 - Board-level oversight  
 - Internal policies & governance  
 - [ESG risk registers](ESG-risk-register.md)
+- [ESG risk register template](ESG-risk-register-template.md)
 - Sustainability strategy templates  
 
 ## **2. CSRD (Corporate Sustainability Reporting Directive)**
