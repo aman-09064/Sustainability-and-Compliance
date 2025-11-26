@@ -1,4 +1,4 @@
-#  ESG Risk Register Template  
+#  ESG Risk Register Template: 
 ### *Ready-to-use template for sustainability & governance teams*
 
 | Risk ID | Category (E/S/G) | Risk Title | Description | Impact (1–5) | Likelihood (1–5) | Velocity | Inherent Risk | Controls / Mitigation | Residual Risk | Owner | Review Frequency |
