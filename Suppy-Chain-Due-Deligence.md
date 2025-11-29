@@ -393,7 +393,9 @@ Short summary & overall risk rating.
 
 ## Conclusion & Recommendation
 (Continue / restrict / suspend / terminate)
+
 ---
+
 ### _Annex C — Remediation Plan Template_
 ## Remediation Plan — [Supplier Name]
 
@@ -408,4 +410,19 @@ Short summary & overall risk rating.
 **Verification:**  
 **Status:**  
 **Closure Date:**
+---
+## 14. Final Notes & Recommended Next Steps
 
+### - Start with policy & governance — publish Supplier Code of Conduct and procurement policy.
+
+### - Map suppliers quickly (spend & criticality) to prioritise effort.
+
+### - Apply a risk-based approach — focus audits on high & critical suppliers.
+
+### - Use contracts to enforce standards — flow-down obligations are important.
+
+### - Support suppliers — remediation and capacity building often achieve better outcomes than immediate termination.
+
+### - Measure & report — track KPIs and report progress to leadership regularly.
+
+> Tip: Keep all supplier assessment artifacts (questionnaires, audit reports, CAPAs) in a central repository with versioning and access controls. This strengthens audit-readiness and supplier accountability.
