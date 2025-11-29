@@ -1,6 +1,6 @@
 #  Supply Chain Due Diligence (Comprehensive Guide & Templates)
 
-**Purpose:** Practical, GitHub-ready guide to assess, manage and monitor environmental, social, governance (ESG) and regulatory risks across your supply chain. Includes step-by-step process, checklists, supplier questionnaire template, risk matrix, contractual clauses, remediation & monitoring guidance — ready to use by compliance, procurement, and sustainability teams.
+**Purpose:** Practical guide to assess, manage and monitor environmental, social, governance (ESG) and regulatory risks across your supply chain. Includes step-by-step process, checklists, supplier questionnaire template, risk matrix, contractual clauses, remediation & monitoring guidance — ready to use by compliance, procurement, and sustainability teams.
 
 ---
 
