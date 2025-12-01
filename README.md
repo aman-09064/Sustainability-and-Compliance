@@ -25,8 +25,6 @@ This repository helps organizations and professionals:
 
 ---
 
----
-
 #  Key Areas Covered
 
 ## **1. ESG (Environmental, Social, Governance)**
