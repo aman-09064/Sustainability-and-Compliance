@@ -1,134 +1,63 @@
-
-#  Sustainability & Compliance Toolkit  
-### **A Comprehensive Repository for ESG, CSRD, Environmental Compliance & Responsible Business Governance (EU Focused)**
-
-This repository contains a curated collection of **sustainability and compliance frameworks**, including templates, checklists, regulatory guidance, reporting structures, and supply chain due diligence tools used in modern organizations.
-
-It is designed for professionals working in: 
-**Sustainability • ESG • Compliance • GRC • Corporate Governance • Risk Management • EU Reporting • Environmental Stewardship**
+# 🌍 ESG Compliance & Governance Repository  
+A complete collection of templates, checklists, governance policies, and frameworks covering the Environmental (E), Social (S), and Governance (G) pillars for modern organizations. Includes sustainability compliance tools, risk registers, supply chain due diligence kits, and governance frameworks aligned with EU and global standards.
 
 ---
 
-#  Why This Repository?
+## 📁 Repository Structure
 
-Sustainability is no longer optional.  
-European and global regulations now require companies to build **structured governance, transparent reporting, responsible supply chains, and environmental accountability**.
-
-This repository helps organizations and professionals:
-
-- Understand regulatory obligations  
-- Build ESG-aligned internal frameworks  
-- Conduct sustainability and risk assessments  
-- Prepare CSRD/ESRS reports  
-- Audit suppliers for ethical & environmental compliance  
-- Develop sustainability policies and controls  
-
----
-
-#  Key Areas Covered
-
-## **1. ESG (Environmental, Social, Governance)**
-- [ESG fundamentals](ESG-Fundamentals-Checklist)
-- Board-level oversight  
-- Internal policies & governance  
-- [ESG risk registers](ESG-risk-register.md)
-- [ESG risk register template](ESG-risk-register-template.md)
-- Sustainability strategy templates  
-
-## **2. CSRD (Corporate Sustainability Reporting Directive)**
-- Reporting requirements  
-- ESRS standards  
-- Double materiality assessments  
-- Sample CSRD report structure  
-- Assurance preparation  
-
-## **3. Environmental Compliance**
-- Carbon accounting (GHG Protocol basics)  
-- Energy consumption mapping  
-- Waste & water stewardship  
-- Pollution and biodiversity controls  
-
-## **4. Supply Chain Due Diligence**
-- Supplier audit frameworks  
-- Human rights & labor protection  
-- Environmental responsibility checks  
-- Third-party compliance documentation  
-
-## **5. EU Sustainability Regulations**
-Covers notes and compliance paths for:
-- CSRD  
-- EU Green Deal  
-- Circular Economy Action Plan  
-- Corporate Due Diligence Directive (CSDDD)  
-- EU Taxonomy for Sustainable Activities  
-
-## **6. Practical Tools & Templates**
-- Risk matrices  
-- Governance controls  
-- Sustainability KPIs  
-- Environmental impact assessment templates  
-- Audit and compliance forms  
-
---- ---
-
-#  How to Use This Repository
-
-1. Browse the folders based on your need:  
-   - ESG basics  
-   - Environmental compliance  
-   - CSRD reporting  
-   - Supply chain due diligence  
-   - Regulatory mapping  
-
-2. Copy templates and tailor them for internal policies.  
-3. Use checklists during sustainability audits and reporting.  
-4. Incorporate materials into compliance frameworks, GRC programs, and board presentations.  
-5. Add these documents to your corporate governance library.
+| Folder | File | Description |
+|--------|-------|-------------|
+| **ESG-Compliance-Governance/** | README.md | Main documentation for the repository |
+| **ESG_Fundamentals/** | ESG_Fundamentals_Checklist.md | Comprehensive ESG fundamentals checklist |
+| | ESG_Risk_Register_Guide.md | Guide on creating and managing ESG risk registers |
+| | ESG_Risk_Register_Template.md | Ready-to-use ESG risk register template |
+| **Supply_Chain_Due_Diligence/** | Supply_Chain_Due_Diligence.md | End-to-end supply chain due diligence framework |
+| | Supplier_Questionnaire.md | Supplier screening & onboarding questionnaire |
+| | Audit_Report_Template.md | Template for supply chain audit reporting |
+| | Remediation_Plan.md | Corrective action & remediation plan document |
+| | Supplier_Code_of_Conduct.md | Ethical & sustainability standards for suppliers |
+| **Governance/** | Anti_Corruption_Governance.md | Anti-corruption policy, controls & governance guide |
+| | Whistleblower_Protection_Policy.md | Internal whistleblowing protection policy |
+| **Tools/** | Sustainability_Compliance_Tracker.md | Tool for tracking ESG, supply chain & governance compliance tasks |
 
 ---
 
-#  Who This Repository Helps
+## 🧩 What’s Included?
 
-- Sustainability Officers  
-- ESG Analysts  
-- Compliance Managers  
-- GRC Teams  
-- Corporate Governance Professionals  
-- Supply Chain & Procurement Teams  
-- Environmental Consultants  
-- Students entering ESG roles  
+### **Environmental (E)**
+- Carbon & energy metrics  
+- Resource management principles  
+- Environmental risk frameworks  
 
----
+### **Social (S)**
+- Supply chain due diligence  
+- Ethical sourcing  
+- Human rights compliance  
 
-#  Why EU-Focused?
-
-The EU is leading the world in:  
-- Sustainability regulation  
-- ESG reporting standards  
-- Green finance  
-- Mandatory disclosures  
-- Supply chain accountability  
-
-Companies operating in or targeting Europe must understand these frameworks — this repo helps you stay ahead.
+### **Governance (G)**
+- Anti-Corruption Governance Policy  
+- Whistleblower Protection Policy  
+- Code of Conduct templates  
+- Ethics & compliance reporting systems  
 
 ---
 
-#  Upcoming Additions  
-- Double Materiality Assessment Toolkit  
-- Sector-specific ESG KPIs  
-- CSRD Audit Preparation Handbook  
-- Climate Risk Scenario Analysis Template  
-- Vendor ESG Scorecard System  
+## 🎯 Purpose of This Repository
+To provide organizations and professionals with:
+
+- Ready-to-use ESG documentation  
+- Risk management tools  
+- Audit checklists  
+- Supplier governance frameworks  
+- Policies required for compliance with CSRD, ESRS, OECD Due Diligence, and international sustainability standards  
 
 ---
 
-#  Contributing  
-Pull requests and suggestions are welcome!  
-If you want to add new sustainability topics, checklists, or frameworks, feel free to open an issue.
+## 🤝 Contributions  
+Open for collaboration. Raise an issue to suggest improvements or add your own compliance tools.
 
 ---
 
-#  License  
-MIT License (or update as needed)
+## 🔗 Need a ready-made tool?  
+Comment on my LinkedIn post or message me — I can generate a full **Sustainability Compliance Management Suite** based entirely on GitHub workflows.
 
----
