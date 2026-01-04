@@ -1,6 +1,7 @@
 # Microplastics (SPM) Reporting : Compliance Checklist  
 **REACH Annex XVII, Entry 78**
 
+
 ---
 
 ## Applicability Check
@@ -10,6 +11,7 @@
 - [ ] Is your use **derogated (exempted)** from the placing-on-the-market ban?
 
 **If yes, annual emission reporting applies.**
+
 
 ---
 
