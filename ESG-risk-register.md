@@ -104,3 +104,4 @@ Sustainability risks evolve faster than typical enterprise risks.
 
 # ✔️ Summary  
 An ESG risk register is a **mandatory tool** for sustainable operations, audit readiness, and CSRD-aligned reporting. It ensures visibility, governance, and proactive risk management.
+---
